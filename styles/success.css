@@ -48,6 +48,9 @@
         box-sizing: border-box;
         font-family: 'Mazzard', 'Roboto Condensed';
     }
-
+    button a{
+        text-decoration: none;
+        color: white;
+    }
    
 }
